@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/119144-support-hyperionng/</Support>
   <ExtraSearchTerms>ambilight wled hue boblight led</ExtraSearchTerms>
   <Screenshot>https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/doc/screenshot.png</Screenshot>
   <Project>https://github.com/hyperion-project/hyperion.ng</Project>
