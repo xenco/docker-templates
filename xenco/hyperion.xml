@@ -66,6 +66,6 @@
   <Config Name="Protobuffer" Target="19445" Default="19445" Mode="tcp" Description="Container Port: 19445" Type="Port" Display="always" Required="true" Mask="false">19445</Config>
   <Config Name="Flatbuffer" Target="19400" Default="19400" Mode="tcp" Description="Container Port: 19400" Type="Port" Display="always" Required="true" Mask="false">19400</Config>
   <Config Name="JSON-Server" Target="19444" Default="19444" Mode="tcp" Description="Container Port: 19444" Type="Port" Display="always" Required="true" Mask="false">19444</Config>
-  <Config Name="WebSocket (ws)" Target="8090" Default="8090" Mode="tcp" Description="Container Port: 8090" Type="Port" Display="always" Required="true" Mask="false">8090</Config>
-  <Config Name="WebSocket (wss)" Target="8092" Default="8092" Mode="tcp" Description="Container Port: 8092" Type="Port" Display="always" Required="true" Mask="false">8092</Config>
+  <Config Name="http / ws" Target="8090" Default="8090" Mode="tcp" Description="Container Port: 8090" Type="Port" Display="always" Required="true" Mask="false">8090</Config>
+  <Config Name="https / wss" Target="8092" Default="8092" Mode="tcp" Description="Container Port: 8092" Type="Port" Display="always" Required="true" Mask="false">8092</Config>
 </Container>
